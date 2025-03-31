@@ -1,7 +1,5 @@
 Project Title:
 Sample React App( first file with the name My-app) is react file
-Description:
-A simple React application built with React JS, CSS, and HTML to demonstrate front-end development concepts.
 
 Features:
 Dynamic UI with React components
